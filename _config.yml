@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Anouar Brahimi"
-resume_title:                   "MEng in Financial Engineering at Cornell University"
+resume_title:                   "MEng student in Financial Engineering"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "ab2697@cornell.edu"
@@ -35,8 +35,8 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        false
-resume_section_skills:          true
+resume_section_projects:        true
+resume_section_skills:          false
 resume_section_recognition:     false
 resume_section_links:           false
 resume_section_associations:    true
