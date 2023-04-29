@@ -6,4 +6,4 @@
   role: Reseach Assistant
   duration: 2020 &mdash; 2021
   # url: "#"
-  description: As part of a project proposed by Framatome in collaboration with Jean Lamour Institute and Ecole des Mines de Nancy.
+  description: As part of a project proposed by Framatome in collaboration with Jean Lamour Institute and Ecole des Mines de Nancy <ul class="resume-item-list"><li> Carried out a numerical simulation of the solidification of a steel ingot for the nuclear industry (cover of a reactor vessel) using a code dedicated to the casting of ingots</li><li>Analysed thermo-metallurgical phenomena (macro and micro segregations) occurring during the cooling and solidification of the ingot</li><li>Performed a model validation analysis to compare numerical models with empirical datas</li></ul>
