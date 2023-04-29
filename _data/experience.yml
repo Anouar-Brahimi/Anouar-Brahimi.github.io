@@ -9,7 +9,7 @@
 - company: EDF Trading
   position: Short-Term Power Trading Intern
   duration:  Mar, 2022 &mdash; Aug, 2022
-  summary: Day-ahead and intraday power trading desk & short-term analysis team	<ul class="resume-item-list"><li> Developed a back-testing tool for week-ahead and day-ahead load forecast models and data providers; focused on the short-term French and German load curves and fundamentals</li><li>Implemented a forecasting model of power production to increase the accuracy of the spot price forecast tool used by power traders and analysts</li><li>Performed statistical analysis on actual and forecast load data, including time series analysis</li></ul>
+  summary: Day-ahead power trading desk & short-term analysis team	<ul class="resume-item-list"><li> Developed a back-testing tool for week-ahead and day-ahead load forecast models and data providers; focused on the short-term French and German load curves and fundamentals</li><li>Implemented a forecasting model of power production to increase the accuracy of the spot price forecast tool used by power traders and analysts</li><li>Performed statistical analysis on actual and forecast load data, including time series analysis</li></ul>
 
 # TRACTEBEL
 - company: ENGIE
